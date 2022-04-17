@@ -1,0 +1,26 @@
+<html>
+<head>
+    {% load static %}
+<link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+<body>
+<div class="container">
+<form id="Form" action="../signup_admin/" method="post">
+    {% csrf_token %}
+<h3>Admin SignUp</h3>
+    <input type="text" name="name" placeholder="Name" required>
+    <input type="text" name="username" placeholder="Username" required>
+    <input type="email" name="email" placeholder="Email" required>
+    <input type="password" name="password" placeholder="Password" required>
+    <input type="number" name="mobile_no" placeholder="Contact No" required>
+    <input type="text" name="country_code" placeholder="Country Code" required>
+
+<div class="btn-box">
+<button type="submit" >SignUp</button>
+</div>
+</form>
+
+
+</div>
+</body>
+</html>
