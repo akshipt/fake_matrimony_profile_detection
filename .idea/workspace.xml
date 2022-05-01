@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d0efa8b-d651-4fd3-a62d-42e59818be60" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1xmHSZmSw5GNws6Fky0LlLMgWXB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../College/python_sem4" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\swarn\OneDrive\Desktop\Hello\Acro_College\Project\Minor_Project_I_SEM_IV\Temp\Matrimonial\djangoProject\api\v1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.djangoProject">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="MinorProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_use" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MinorProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_model/model_use.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="djangoProject" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="djangoProject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.djangoProject" />
+      <item itemvalue="Python.model_use" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d0efa8b-d651-4fd3-a62d-42e59818be60" name="Changes" comment="" />
+      <created>1630953346539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630953346539</updated>
+      <workItem from="1630953407390" duration="594000" />
+      <workItem from="1630954275860" duration="2563000" />
+      <workItem from="1631681081514" duration="11857000" />
+      <workItem from="1632331578021" duration="270000" />
+      <workItem from="1633511799066" duration="687000" />
+      <workItem from="1634621704664" duration="33790000" />
+      <workItem from="1634919159915" duration="1199000" />
+      <workItem from="1635007800947" duration="830000" />
+      <workItem from="1635051006317" duration="595000" />
+      <workItem from="1635068682623" duration="23599000" />
+      <workItem from="1635597680723" duration="6000" />
+      <workItem from="1636369613942" duration="30759000" />
+      <workItem from="1636522466166" duration="20983000" />
+      <workItem from="1636711783632" duration="1071000" />
+      <workItem from="1637239321259" duration="8009000" />
+      <workItem from="1637284622626" duration="8429000" />
+      <workItem from="1637834450436" duration="18000" />
+      <workItem from="1637834484414" duration="6621000" />
+      <workItem from="1637904595686" duration="9070000" />
+      <workItem from="1638098775880" duration="13524000" />
+      <workItem from="1638138122919" duration="244000" />
+      <workItem from="1638138380444" duration="150000" />
+      <workItem from="1638138553274" duration="4053000" />
+      <workItem from="1638165546738" duration="6565000" />
+      <workItem from="1638250821634" duration="598000" />
+      <workItem from="1638335407800" duration="1923000" />
+      <workItem from="1638427411631" duration="3728000" />
+      <workItem from="1638512606517" duration="10832000" />
+      <workItem from="1638678812247" duration="11946000" />
+      <workItem from="1638868011189" duration="833000" />
+      <workItem from="1640326790774" duration="1804000" />
+      <workItem from="1641489945184" duration="1223000" />
+      <workItem from="1643868269484" duration="25000" />
+      <workItem from="1643868315501" duration="1239000" />
+      <workItem from="1644209937747" duration="10000" />
+      <workItem from="1645032628643" duration="707000" />
+      <workItem from="1650219634907" duration="680000" />
+      <workItem from="1650281941697" duration="1190000" />
+      <workItem from="1650624621097" duration="884000" />
+      <workItem from="1651377600262" duration="23000" />
+      <workItem from="1651377639579" duration="1669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>197</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>198</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>200</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>201</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>205</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>204</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/djangoProject-ptDVTX-V/Lib/site-packages/tensorflow/python/keras/saving/save.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MinorProject$model_use.coverage" NAME="model_use Coverage Results" MODIFIED="1638167257572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_model" />
+  </component>
+</project>

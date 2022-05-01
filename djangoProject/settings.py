@@ -20,7 +20,7 @@ import sentry_sdk
 # environ.Env.read_env()
 
 sentry_sdk.init(
-    dsn="https://83ba172909d14cd1ba3179b6e276bc5c@o991097.ingest.sentry.io/5948038",
+    dsn="<Sentry_URL>",
     integrations=[DjangoIntegration()],
     traces_sample_rate=1.0,
     send_default_pii=True
@@ -33,7 +33,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-wh83p$%al@mlc8be3((ad@dfh#em&806rv++4jd5^&l^==_b_n'
+SECRET_KEY = '<API_KEY>'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
